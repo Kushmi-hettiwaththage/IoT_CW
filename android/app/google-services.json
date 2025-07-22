@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "277662804594",
+    "firebase_url": "https://pawme-81fbe-default-rtdb.firebaseio.com",
+    "project_id": "pawme-81fbe",
+    "storage_bucket": "pawme-81fbe.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:277662804594:android:8d0f584692cd82969a30eb",
+        "android_client_info": {
+          "package_name": "com.example.pawme"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBusv_gy6tbQUcyZzyEyFA9tsgAovvbwv4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

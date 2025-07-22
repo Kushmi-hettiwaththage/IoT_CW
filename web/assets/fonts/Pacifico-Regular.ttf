@@ -1,0 +1,8 @@
+Text(
+  'Pawmé',
+  style: TextStyle(
+    fontFamily: 'Pacifico',
+    fontSize: 36,
+    color: Colors.lightBlue,
+  ),
+)
